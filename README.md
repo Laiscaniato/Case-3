@@ -1,3 +1,5 @@
+Link do github para poder visualizar o trabalho na integra: https://github.com/Laiscaniato/Case-3
+
 # MBA Engenharia de dados
 ## Trabalho de modelagem de dados 
 
